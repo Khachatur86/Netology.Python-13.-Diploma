@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/groups.json
+__pycache__/
+/config.json
+.idea/workspace.xml
+Experience.py
